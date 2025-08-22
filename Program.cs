@@ -1,33 +1,28 @@
 ﻿using System;
 
-namespace Bank
+class Age
 {
-    class Account
-    {
-     protected string Account_Name;  
-     protected string Account_ID;
-     protected float balance;
+    private int age ;
 
-     public Account(string acc_number , string Acc_id, int bal)
-        {
-            Account_Name = acc_number;
-            Account_ID = Acc_id;
-            balance = bal;
-        }
-       public virtual void Deposit(float amount)
-        {
-            balance = balance + amount;
-            Console.WriteLine("Amount Deposited");
-            Console.WriteLine("Current Balance:" + balance);
-        }
+    public void Takeage()
+    {
+        Console.Write("Enter age: ");
+        age = Convert.ToInt32(Console.ReadLine());
     }
-
-    class Program
+        public void Showage()
     {
-        static void Main()
-        {
-            Account ac = new Account("Boss","DS1001",5000);
-            ac.Deposit(1000);
-        }
+            Console.WriteLine("Age is " + age);
+    }
+}
+
+class myclass
+{
+    static void Main(string[] args)
+    {
+        Age a=new Age();
+
+        a.Takeage();
+        a.Showage();
+        
     }
 }
