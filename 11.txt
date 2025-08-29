@@ -1,0 +1,16 @@
+import mysql.connector
+from flask import Flask, request , jsonify
+
+app = Flask(__name__)
+
+db = mysql.connector.connect(
+    host = "localhost",
+    user = "root"
+    password = "yourpassword"
+    database = "flaskdb"
+) 
+cursor = db.cursor()
+@app.route("/users", methods = ['GET'])
+def get_users():
+    cursor.execute("SELECT-*-FROM-users")
+    return jsonify(cursor.fetchall())
