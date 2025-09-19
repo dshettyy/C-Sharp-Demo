@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\bin\Debug\net8.0\Expection_Handeling.exe
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\bin\Debug\net8.0\Expection_Handeling.deps.json
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\bin\Debug\net8.0\Expection_Handeling.runtimeconfig.json
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\bin\Debug\net8.0\Expection_Handeling.dll
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\bin\Debug\net8.0\Expection_Handeling.pdb
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\obj\Debug\net8.0\Expection_Handeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\obj\Debug\net8.0\Expection_Handeling.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\obj\Debug\net8.0\Expection_Handeling.AssemblyInfo.cs
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\obj\Debug\net8.0\Expection_Handeling.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\obj\Debug\net8.0\Expection_Handeling.dll
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\obj\Debug\net8.0\refint\Expection_Handeling.dll
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\obj\Debug\net8.0\Expection_Handeling.pdb
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\obj\Debug\net8.0\Expection_Handeling.genruntimeconfig.cache
+C:\Users\Studen\Documents\Boss's C#\Expection_Handeling\Expection_Handeling\obj\Debug\net8.0\ref\Expection_Handeling.dll
