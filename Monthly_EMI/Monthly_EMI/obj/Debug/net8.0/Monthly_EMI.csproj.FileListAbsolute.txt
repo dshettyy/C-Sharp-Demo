@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\obj\Debug\net8.0\Monthly_EMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\obj\Debug\net8.0\Monthly_EMI.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\obj\Debug\net8.0\Monthly_EMI.AssemblyInfo.cs
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\obj\Debug\net8.0\Monthly_EMI.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\bin\Debug\net8.0\Monthly_EMI.exe
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\bin\Debug\net8.0\Monthly_EMI.deps.json
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\bin\Debug\net8.0\Monthly_EMI.runtimeconfig.json
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\bin\Debug\net8.0\Monthly_EMI.dll
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\bin\Debug\net8.0\Monthly_EMI.pdb
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\obj\Debug\net8.0\Monthly_EMI.dll
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\obj\Debug\net8.0\refint\Monthly_EMI.dll
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\obj\Debug\net8.0\Monthly_EMI.pdb
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\obj\Debug\net8.0\Monthly_EMI.genruntimeconfig.cache
+C:\Users\Studen\Documents\Boss's C#\Monthly_EMI\Monthly_EMI\obj\Debug\net8.0\ref\Monthly_EMI.dll
