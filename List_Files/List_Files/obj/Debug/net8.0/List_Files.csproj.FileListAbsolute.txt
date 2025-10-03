@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\bin\Debug\net8.0\List_Files.exe
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\bin\Debug\net8.0\List_Files.deps.json
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\bin\Debug\net8.0\List_Files.runtimeconfig.json
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\bin\Debug\net8.0\List_Files.dll
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\bin\Debug\net8.0\List_Files.pdb
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\obj\Debug\net8.0\List_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\obj\Debug\net8.0\List_Files.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\obj\Debug\net8.0\List_Files.AssemblyInfo.cs
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\obj\Debug\net8.0\List_Files.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\obj\Debug\net8.0\List_Files.dll
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\obj\Debug\net8.0\refint\List_Files.dll
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\obj\Debug\net8.0\List_Files.pdb
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\obj\Debug\net8.0\List_Files.genruntimeconfig.cache
+C:\Users\Studen\Documents\Boss's C#\List_Files\List_Files\obj\Debug\net8.0\ref\List_Files.dll
